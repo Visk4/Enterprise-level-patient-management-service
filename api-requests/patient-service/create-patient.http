@@ -1,0 +1,13 @@
+### POST request to create new patient
+POST http://localhost:4004/api/patients
+Content-Type: application/json
+
+{
+    "name":"kafka testfmfff last",
+    "email":"aarlfwasaar.qdaoe@example.com",
+    "address":"asf4wfqwefawef",
+    "dateOfBirth":"2010-01-10",
+    "registeredDate":"2024-03-01"
+}
+
+###
